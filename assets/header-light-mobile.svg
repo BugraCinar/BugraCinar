@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300" fill="none" role="img" aria-labelledby="title description">
-  <title id="title">Ahmet Buğrahan Çınar — Backend Engineer</title>
+  <title id="title">Ahmet Buğrahan Çınar — Full Stack Developer</title>
   <desc id="description">A cream and forest-green nameplate, composed for smaller screens.</desc>
   <rect x="0.5" y="0.5" width="559" height="299" rx="20" fill="#F5F0E5" stroke="#DDD7C9"/>
   <path d="M32 43H54" stroke="#B96846" stroke-width="3"/>
-  <text x="67" y="48" fill="#3F5A51" font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="2">BACKEND ENGINEER</text>
+  <text x="67" y="48" fill="#3F5A51" font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="2">FULL STACK DEVELOPER</text>
   <text x="30" y="123" fill="#173D32" font-family="Georgia,'Times New Roman',serif" font-size="57" letter-spacing="-1.5">Ahmet Buğrahan</text>
   <text x="30" y="193" fill="#173D32" font-family="Georgia,'Times New Roman',serif" font-size="73" letter-spacing="-2">Çınar<tspan fill="#B96846">.</tspan></text>
   <path d="M33 218H527" stroke="#DDD7C9"/>

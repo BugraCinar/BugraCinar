@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/header-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="./assets/header-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" alt="Ahmet Buğrahan Çınar — Backend Engineer" width="100%">
+  <img src="./assets/header-light.svg" alt="Ahmet Buğrahan Çınar — Full Stack Developer" width="100%">
 </picture>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="mailto:ahmetbugrahancinarr@gmail.com">Email</a>
 </p>
 
-I build backend systems with **Java / Spring Boot** and **Python / FastAPI**. My work focuses on modular APIs, authentication, data integrity and the workflows that connect them.
+I build web applications end to end: **React / TypeScript** on the frontend, with **Java / Spring Boot** or **Python / FastAPI** on the backend. My work connects usable interfaces, modular APIs and reliable data flows.
 
 I like clear module boundaries, explicit permissions and tests that exercise real behavior — from a refresh-token rotation to a warehouse stock transfer.
 
