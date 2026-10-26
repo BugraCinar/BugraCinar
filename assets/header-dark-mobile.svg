@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Ahmet Buğrahan Çınar — Backend Engineer</title>
+  <desc id="description">A charcoal-green and cream nameplate, composed for smaller screens.</desc>
+  <rect x="0.5" y="0.5" width="559" height="299" rx="20" fill="#15241F" stroke="#33473D"/>
+  <path d="M32 43H54" stroke="#D39874" stroke-width="3"/>
+  <text x="67" y="48" fill="#ADC3AF" font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="2">BACKEND ENGINEER</text>
+  <text x="30" y="123" fill="#F3ECDD" font-family="Georgia,'Times New Roman',serif" font-size="57" letter-spacing="-1.5">Ahmet Buğrahan</text>
+  <text x="30" y="193" fill="#F3ECDD" font-family="Georgia,'Times New Roman',serif" font-size="73" letter-spacing="-2">Çınar<tspan fill="#D39874">.</tspan></text>
+  <path d="M33 218H527" stroke="#33473D"/>
+  <text x="33" y="260" fill="#B2C1B4" font-family="'Segoe UI',Arial,sans-serif" font-size="21">Java &amp; Python</text>
+  <circle cx="191" cy="253" r="2" fill="#D39874"/>
+  <text x="207" y="260" fill="#B2C1B4" font-family="'Segoe UI',Arial,sans-serif" font-size="21">APIs &amp; data systems</text>
+  <path d="M476 36H496V56H476Z" stroke="#739681"/>
+  <path d="M486 46H506V66H486Z" fill="#293E32" stroke="#739681"/>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Ahmet Buğrahan Çınar — Backend Engineer</title>
+  <desc id="description">A charcoal-green and cream nameplate with an abstract diagram of connected services and a database.</desc>
+  <rect x="0.5" y="0.5" width="999" height="319" rx="20" fill="#15241F" stroke="#33473D"/>
+  <path d="M640 32V288" stroke="#33473D"/>
+  <path d="M52 60H78" stroke="#D39874" stroke-width="3"/>
+  <text x="92" y="65" fill="#ADC3AF" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="3">BACKEND ENGINEER</text>
+  <text x="50" y="148" fill="#F3ECDD" font-family="Georgia,'Times New Roman',serif" font-size="66" letter-spacing="-2">Ahmet Buğrahan</text>
+  <text x="50" y="219" fill="#F3ECDD" font-family="Georgia,'Times New Roman',serif" font-size="76" letter-spacing="-2">Çınar<tspan fill="#D39874">.</tspan></text>
+  <text x="53" y="271" fill="#B2C1B4" font-family="'Segoe UI',Arial,sans-serif" font-size="18">Java &amp; Python</text>
+  <circle cx="190" cy="265" r="2" fill="#D39874"/>
+  <text x="205" y="271" fill="#B2C1B4" font-family="'Segoe UI',Arial,sans-serif" font-size="18">APIs &amp; data systems</text>
+  <g stroke="#263C31">
+    <path d="M680 96H952M680 144H952M680 192H952M680 240H952"/>
+    <path d="M704 74V267M752 74V267M800 74V267M848 74V267M896 74V267M944 74V267"/>
+  </g>
+  <text x="685" y="55" fill="#95AF9D" font-family="'Segoe UI',Arial,sans-serif" font-size="11" letter-spacing="2.5">A FEW CONNECTED PARTS</text>
+  <g stroke="#739681" stroke-width="1.5">
+    <path d="M797 123H866V165"/>
+    <path d="M742 154V215H810"/>
+    <path d="M866 204V232H847"/>
+  </g>
+  <rect x="687" y="90" width="110" height="64" rx="12" fill="#C7D7BA"/>
+  <text x="742" y="133" fill="#173D32" text-anchor="middle" font-family="Consolas,monospace" font-size="30">{ }</text>
+  <rect x="828" y="165" width="76" height="39" rx="10" fill="#293E32" stroke="#739681"/>
+  <path d="M846 184H859M865 184H878M884 184H889" stroke="#B1C8AA" stroke-width="3" stroke-linecap="round"/>
+  <path d="M774 226V251C774 267 847 267 847 251V226" fill="#15241F" stroke="#A6C0A9" stroke-width="1.5"/>
+  <ellipse cx="810.5" cy="226" rx="36.5" ry="11" fill="#293E32" stroke="#A6C0A9" stroke-width="1.5"/>
+  <path d="M774 239C774 255 847 255 847 239" stroke="#A6C0A9" stroke-width="1.5"/>
+  <circle cx="866" cy="123" r="4" fill="#D39874"/>
+  <circle cx="742" cy="215" r="4" fill="#D39874"/>
+</svg>
